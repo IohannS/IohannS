@@ -17,3 +17,4 @@
 
 ## GitHub Stats
 ![Iohann GitHub stats](https://github-readme-stats.vercel.app/api?username=IohannS&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IohannS)](https://github.com/IohannS/github-readme-stats)
