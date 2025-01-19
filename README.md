@@ -1,5 +1,5 @@
 # Iohann Souza 👾
- - Me chamo Iohann Souza, tenho hoje 23 anos,sou estudante de Analise e Desenvolvimento de Sistemas. Estou em busca de me tornar um desenvolvedor Back-end especializado em tecnologias, como Java,Java-script e Python
+ - Me chamo Iohann Souza, tenho hoje 23 anos,sou estudante de Analise e Desenvolvimento de Sistemas. Estou em busca de me tornar um desenvolvedor Back-end.Vendo me aprofundando em linguagens como Java,Java-script e Python
 ## Meus contatos
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iohannsouza72@gmail.com)
  [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iora_/)
